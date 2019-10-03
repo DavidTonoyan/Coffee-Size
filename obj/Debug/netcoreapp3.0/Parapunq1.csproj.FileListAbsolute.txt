@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\C#\Parapunq1\bin\Debug\netcoreapp3.0\Parapunq1.exe
+C:\Users\HP\Documents\C#\Parapunq1\bin\Debug\netcoreapp3.0\Parapunq1.deps.json
+C:\Users\HP\Documents\C#\Parapunq1\bin\Debug\netcoreapp3.0\Parapunq1.runtimeconfig.json
+C:\Users\HP\Documents\C#\Parapunq1\bin\Debug\netcoreapp3.0\Parapunq1.runtimeconfig.dev.json
+C:\Users\HP\Documents\C#\Parapunq1\bin\Debug\netcoreapp3.0\Parapunq1.dll
+C:\Users\HP\Documents\C#\Parapunq1\bin\Debug\netcoreapp3.0\Parapunq1.pdb
+C:\Users\HP\Documents\C#\Parapunq1\obj\Debug\netcoreapp3.0\Parapunq1.csprojAssemblyReference.cache
+C:\Users\HP\Documents\C#\Parapunq1\obj\Debug\netcoreapp3.0\Parapunq1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\Parapunq1\obj\Debug\netcoreapp3.0\Parapunq1.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\Parapunq1\obj\Debug\netcoreapp3.0\Parapunq1.dll
+C:\Users\HP\Documents\C#\Parapunq1\obj\Debug\netcoreapp3.0\Parapunq1.pdb
